@@ -1,2 +1,2 @@
-# ya.praktikum
-my projects from Yandex.Praktikum course
+# ya.practicum
+my projects from Yandex.Practicum course
