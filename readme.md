@@ -8,7 +8,7 @@
 <table width="100%" >
     <tr>
       <td width="800" align="center"> Основные положения </td> 
-      <td width="400"> Библиотеки </td> 
+      <td width="200"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
