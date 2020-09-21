@@ -10,7 +10,7 @@
 
 <table width="100%" >
     <tr>
-      <td width="80%" align="center"> Основные положения </td> 
+      <td width="80%" align="center"> Основные операции </td> 
       <td width="20%"> Библиотеки </td> 
     </tr> 
     <tr>
