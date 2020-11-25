@@ -56,6 +56,59 @@
     </tr> 
    </table> 
 
+---
 
+#### [3. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table> 
+---
+
+#### [4. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </tabl
 
 
