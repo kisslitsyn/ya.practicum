@@ -26,7 +26,7 @@
          <li> pandas </li> 
        </ul> </td> 
     </tr> 
-   </table> 
+</table> 
 
 ---
 
@@ -54,7 +54,7 @@
          <li> pymystem3 </li>
        </ul> </td> 
     </tr> 
-   </table> 
+</table> 
 
 ---
 
@@ -83,7 +83,7 @@
          <li> sklearn </li>
        </ul> </td> 
     </tr> 
-   </table> 
+</table> 
 
 ---
 
@@ -112,7 +112,7 @@
          <li> scipy </li>
        </ul> </td> 
     </tr> 
-   </tabl
+</table>
 
 ---
 
@@ -140,7 +140,7 @@ XXXXX
          <li> XXX </li>
        </ul> </td> 
     </tr> 
-   </tabl
+   </table>
 
 ---
 
@@ -168,6 +168,6 @@ XXXXX
          <li> XXX </li>
        </ul> </td> 
     </tr> 
-   </tabl
+   </table>
 
 
