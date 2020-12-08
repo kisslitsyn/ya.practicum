@@ -87,10 +87,10 @@
 
 ---
 
-#### [4. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [4. Статистический анализ данных. Определение перспективного тарифа для телеком компании](https://github.com/kisslitsyn/ya.praktikum/blob/master/04_tariff.ipynb)
 
 ###### Описание: 
-XXXXX
+Данные об активности абонентов телеком оператора: длительность звонков, количество сообщений и использованного интернет-трафика, а также информация о стоимости тарифов. Необходимо охарактеризовать поведение пользователей и статистически сравнить выручку в месяц от абонентов разных тарифов.
 
 <table width="100%" >
     <tr>
@@ -100,15 +100,16 @@ XXXXX
     <tr>
      <td align="left" >
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
-         <li> XXX </li> 
+         <li> объединение таблиц (методы .merge, .join) </li> 
+         <li> работа со сводными таблицами </li>
+         <li> формулирование и проверка статистических гипотез </li> 
        </ul> 
       </td> 
      <td valign="top" align="left" >  
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
+         <li> pandas, matplotlib </li> 
+         <li> numpy </li>  
+         <li> scipy </li>
        </ul> </td> 
     </tr> 
    </tabl
