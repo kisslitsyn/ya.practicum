@@ -116,7 +116,65 @@
 
 ---
 
-#### [4. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [5. Сборный проект #1. Продажи видеоигр](https://github.com/kisslitsyn/ya.praktikum/blob/master/05_games.ipynb)
+
+###### Описание: 
+Данные о продажах видеоигр в интернет-магазине до 2016 года (включительно). Необходимо выявить закономерности определяющие успешность игры. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании на 2017 год.
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> построение графиков (столбчатая диаграмма, боксплот) </li> 
+         <li> совмещение графиков </li>
+         <li> проверка гипотез </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> pandas </li> 
+         <li> matplotlib, seaborn </li>
+         <li> numpy, scipy </li>
+       </ul> </td> 
+    </tr> 
+   </table>
+
+---
+
+#### [6. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
+
+
+---
+
+#### [7. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
 
 ###### Описание: 
 XXXXX
@@ -144,7 +202,7 @@ XXXXX
 
 ---
 
-#### [4. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [8. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
 
 ###### Описание: 
 XXXXX
@@ -170,4 +228,87 @@ XXXXX
     </tr> 
    </table>
 
+---
+
+#### [9. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
+
+---
+
+#### [10. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
+
+---
+
+#### [11. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
 
