@@ -11,7 +11,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -38,7 +38,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -66,7 +66,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -95,7 +95,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -124,7 +124,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -153,7 +153,7 @@
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки и языки </td> 
+      <td align="center"> Библиотеки и языки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -183,7 +183,7 @@ XXXXX
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -211,7 +211,7 @@ XXXXX
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -239,7 +239,7 @@ XXXXX
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -267,7 +267,7 @@ XXXXX
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
@@ -295,7 +295,7 @@ XXXXX
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td align="center"> Библиотеки </td> 
     </tr> 
     <tr>
      <td align="left" >
