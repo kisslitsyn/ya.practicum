@@ -145,28 +145,29 @@
 
 ---
 
-#### [6. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [6. Сбор и хранение данных. Аналитика в авиакомпании](https://github.com/kisslitsyn/ya.praktikum/blob/master/06_sql.ipynb)
 
 ###### Описание: 
-XXXXX
+Извлечение данных о фестивалях и пассажирских авиаперевозках (аэропорты, самолеты, билеты, рейсы) из html-страницы и БД. Анализ спроса пассажиров на рейсы в города, где проходят крупнейшие фестивали.
 
 <table width="100%" >
     <tr>
       <td align="center"> Основные операции </td> 
-      <td> Библиотеки </td> 
+      <td> Библиотеки и языки </td> 
     </tr> 
     <tr>
      <td align="left" >
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
-         <li> XXX </li> 
+         <li> парсинг данных с интернет-страницы </li> 
+         <li> SQL-запросы с фильтрацией, группировкой, объединением таблиц и подзапросами </li>
+         <li> графики и проверка гипотез </li> 
        </ul> 
       </td> 
      <td valign="top" align="left" >  
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
+         <li> pandas, requests, beautiful soup 4 </li> 
+         <li> SQL </li>
+         <li> matplotlib, seaborn, scipy </li>
        </ul> </td> 
     </tr> 
    </table>
