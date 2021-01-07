@@ -175,10 +175,12 @@
 
 ---
 
-#### [7. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [7. Анализ бизнес-показателей. Аналитика в Яндекс.Афише](https://github.com/kisslitsyn/ya.praktikum/blob/master/07_afisha.ipynb)
 
 ###### Описание: 
-XXXXX
+Данные от сервиса Яндекс.Афиши с июня 2017 по конец мая 2018 года: лог сервера с данными о посещениях сайта, выгрузка всех заказов за этот период, статистика рекламных расходов.
+
+Необходимо определить как посетители пользуются сайтом, когда начинают покупать, сколько денег приносят. Необходимо дать общие рекомендации маркетологам про платоформы и источники рекламы
 
 <table width="100%" >
     <tr>
@@ -188,15 +190,15 @@ XXXXX
     <tr>
      <td align="left" >
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
-         <li> XXX </li> 
+         <li> расчет метрик активности пользователей (ASL, DAU, WAU, retention rate) </li> 
+         <li> расчет бизнес-метрик (средний чек, CAC, LTV, ROMI) </li>
+         <li> когортный анализ и визуализация результатов в виде тепловой карты </li> 
        </ul> 
       </td> 
      <td valign="top" align="left" >  
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
+         <li> pandas, numpy </li> 
+         <li> matplotlib, seaborn </li>
        </ul> </td> 
     </tr> 
    </table>
@@ -224,6 +226,7 @@ XXXXX
      <td valign="top" align="left" >  
        <ul> 
          <li> XXX </li> 
+         <li> XXX </li>
          <li> XXX </li>
        </ul> </td> 
     </tr> 
@@ -253,6 +256,7 @@ XXXXX
        <ul> 
          <li> XXX </li> 
          <li> XXX </li>
+         <li> XXX </li>
        </ul> </td> 
     </tr> 
    </table>
@@ -281,6 +285,7 @@ XXXXX
        <ul> 
          <li> XXX </li> 
          <li> XXX </li>
+         <li> XXX </li>
        </ul> </td> 
     </tr> 
    </table>
@@ -308,6 +313,7 @@ XXXXX
      <td valign="top" align="left" >  
        <ul> 
          <li> XXX </li> 
+         <li> XXX </li>
          <li> XXX </li>
        </ul> </td> 
     </tr> 
