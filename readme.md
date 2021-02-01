@@ -276,10 +276,12 @@
 
 ---
 
-#### [10. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+#### [10. Сборный проект #2. Поведение пользователей мобильного приложения](https://github.com/kisslitsyn/ya.praktikum/blob/master/10_food_app.ipynb)
 
 ###### Описание: 
-XXXXX
+Аналитика в стартапе по продаже продуктов питания. Данные - действия пользователей мобильного приложения за несколько дней.
+
+Необходимо построить воронку событий и проанализировать результаты А/А/В-теста (влияние нового шрифта в приложении на активность пользователей).
 
 <table width="100%" >
     <tr>
@@ -289,16 +291,16 @@ XXXXX
     <tr>
      <td align="left" >
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
-         <li> XXX </li> 
+         <li> построение воронки событий </li> 
+         <li> анализ результатов А/А/В-теста </li>
+         <li> проверка гипотез о равенстве пропорций двух ГС по выборкам из них </li> 
        </ul> 
       </td> 
      <td valign="top" align="left" >  
        <ul> 
-         <li> XXX </li> 
-         <li> XXX </li>
-         <li> XXX </li>
+         <li> pandas, matplotlib </li> 
+         <li> seaborn, plotly </li>
+         <li> numpy, scipy </li>
        </ul> </td> 
     </tr> 
    </table>
@@ -332,3 +334,60 @@ XXXXX
     </tr> 
    </table>
 
+---
+
+#### [12. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td align="center"> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
+
+---
+
+#### [13. XXXXX](https://github.com/kisslitsyn/ya.praktikum/blob/master/02_credit.ipynb)
+
+###### Описание: 
+XXXXX
+
+<table width="100%" >
+    <tr>
+      <td align="center"> Основные операции </td> 
+      <td align="center"> Библиотеки </td> 
+    </tr> 
+    <tr>
+     <td align="left" >
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li> 
+       </ul> 
+      </td> 
+     <td valign="top" align="left" >  
+       <ul> 
+         <li> XXX </li> 
+         <li> XXX </li>
+         <li> XXX </li>
+       </ul> </td> 
+    </tr> 
+   </table>
