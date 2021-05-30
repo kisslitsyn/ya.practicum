@@ -411,7 +411,7 @@
 
 ---
 
-#### [14. Пайплайн анализа данных](https://github.com/kisslitsyn/ya.praktikum/blob/master/13_retail_efficiency.ipynb)
+#### [14. Пайплайн анализа данных](https://github.com/kisslitsyn/ya.practicum/blob/master/14.%20Пайплайн%20анализа%20данных.pdf)
 
 ###### Описание: 
 
