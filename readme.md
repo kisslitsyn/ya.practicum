@@ -409,3 +409,10 @@
 
 [13. Выпускной проект. Анализ эффективности рекламных кампаний с использованием SQL](https://github.com/kisslitsyn/ya.praktikum/blob/master/13_sql.ipynb)
 
+---
+
+#### [14. Пайплайн анализа данных](https://github.com/kisslitsyn/ya.praktikum/blob/master/13_retail_efficiency.ipynb)
+
+###### Описание: 
+
+Моё представление процесса и последовательности анализа данных.
